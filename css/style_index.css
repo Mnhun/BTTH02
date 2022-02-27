@@ -1,0 +1,120 @@
+.nav-link{
+    color:black !important;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 15px;
+}
+.p1 >h5{
+    justify-content: center;
+    display:flex;
+    margin:10px;
+}
+h6{
+    color:rgb(96, 96, 247);
+    margin:10px 0px;
+}
+#next{
+    position:absolute;
+    left:58%;
+}
+.p12{
+    color:rgb(96, 96, 247);
+}
+#gv{
+    position:absolute;
+    left:58%;
+}
+div.p14 >h6{
+    color:black;
+    letter-spacing: 4px ;
+    margin: 20px 0px;
+}
+.like{
+    display:flex;
+}
+.box1 img{
+    width:250px;
+    height:160px;
+}
+.box2 img{
+    width:250px;
+    height:160px;
+}
+.box3 img{
+    width:250px;
+    height:160px;
+}
+.like >div{
+    width:300px;
+    height:200px;
+}
+.box1 >ul {
+    padding:0px ;
+}
+.H1 >h3{
+    justify-content: center;
+    display:flex;
+    margin:50px;
+}
+.end{
+    background-color: rgb(96, 96, 247);
+    display:flex;
+    height:450px;
+    font-weight:700;
+    line-height: 50px;
+}
+.fa-play{
+    font-weight: none;
+}
+.end >div{
+    width:400px;
+}
+.H6{
+    font-size: 18px;
+    color:aliceblue;
+}
+.lge{
+    margin:18px 0px;
+    width:320px;
+    height:100px;
+}
+.slideauto{
+    height:270px;
+    margin:0px 0px 70px 0px;
+}
+h6.H6{
+    padding: 0 0 0 32px;
+}
+.SlideBar >div{
+    margin:35px 20px;
+}
+.SlideBar img{
+    margin: 16px 0px;
+}
+.submit{
+    background-color: rgb(235, 235, 47);
+    width:250px;
+    margin:20px 0px 0px 0px;
+}
+input {
+    width:250px;
+    margin:20px 0px 0px 0px;
+}
+#tdo {
+    width:250px;
+    margin:20px 0px 0px 0px;
+}
+a{
+    text-decoration: none;
+    color: black   ;
+}
+div.like >div>ul{
+    list-style: none;
+}
+div.end >div>ul{
+    list-style: none;
+}
+main{
+    display:flex;
+    justify-content: space-around;
+}
